@@ -12,4 +12,12 @@ Google: Es una herramienta fundamental en la vida diaria porque nos permite acce
 
 Yahoo: Utiliza un sistema llamado WebRank, que mide la popularidad de una pàgina web con una escala de 1 al 10, cuanto mayor es el nùmero, màs popular y relevante es la pàgina.
 
-Bing: Emplea un algoritmo que analiza varios factores para clasificar las pàginas.çEntre ellos estàn el contenido de la pàgina, las palabras clave que contiene, y la cantidad y calidad de los sitios web que enlazan a esa pàgina . 
+Bing: Emplea un algoritmo que analiza varios factores para clasificar las pàginas.çEntre ellos estàn el contenido de la pàgina, las palabras clave que contiene, y la cantidad y calidad de los sitios web que enlazan a esa pàgina .
+
+Con el crecimiento  de herramientas de Inteligencia Artificial (IA) para generar texto, imágenes y otros tipos de contenido, ha surgido la necesidad de verificar si ese contenido fue creado por humanos o por IA. Esto es importante para asegurar la autenticidad, originalidad y ética del contenido, especialmente en áreas como la educación, los negocios y la investigación.
+
+Para abordar este reto, se han creado herramientas como:
+
+ZeroGPT:Esta herramienta  examina un texto para evaluar qué tan probable es que haya sido creado por una inteligencia artificial. 
+Originality.ai:Es una herramienta similar a la anterior  que identifica si un texto fue creado por inteligencia artificial y también revisa si el contenido es plagiado.
+GPTZero:Está diseñado especialmente para profesores y educadores, con el fin de detectar si los estudiantes usaron inteligencia artificial para hacer sus tareas.
