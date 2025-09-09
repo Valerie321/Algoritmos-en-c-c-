@@ -27,3 +27,4 @@ El proposito de cada comando fue aprender y practicar las funciones bàsicas par
 Nos ofrece ventajas como mayor rapidez para ejecutar tareas, un control màs preciso y avanzado sobre el sistema.
 
 -¿Què comandos podrìan facilitar la automatizaciòn de tareas repetitivas?
+Los comandos que nos facilitan la automatizaciòn son  mkdir, cd, touch, cp, mv y rm, que permiten crear carpetas, navegar, crear, copiar, renombrar y eliminar archivos o directorios. Estos comandos se pueden combinar en scripts para ejecutar varias acciones automáticamente y ahorrar tiempo.
